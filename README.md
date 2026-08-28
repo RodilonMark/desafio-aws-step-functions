@@ -53,3 +53,8 @@ Um workflow pode ser estruturado da seguinte forma:
 - A separação entre as etapas do fluxo deixa a automação mais organizada.
 - O histórico de execução ajuda a acompanhar resultados e identificar problemas.
 
+## Evidências
+
+### Repositório publicado
+
+![Captura do README publicado](images/readme-publicado.png.png)
